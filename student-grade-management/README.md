@@ -30,7 +30,7 @@ student-grade-management/
 ## How to Run
 1. Clone the repository
 
-git clone https://github.com/yourusername/student-grade-management.git
+git clone [https://github.com/yourusername/student-grade-management.git](https://github.com/Harvey-jayrell/developer-roadmap/tree/main/student-grade-management)
 
 2. go to the project folder
 
